@@ -38,4 +38,8 @@ void sendSensor()
             Blynk.virtualWrite(V0, Sensor_value);
 }
 
+<<<<<<< HEAD
 
+=======
+
+>>>>>>> f21523cff991d1de29bb78e16ffdfbf8216f90a1
